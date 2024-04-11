@@ -5,4 +5,4 @@ BI mini project
 2. BC223 Jaydatta Patwe
 3. BC213 Yash Dagadkhair
 ## Steps to run 
-Upload dataset (csv file) and PowerBI file to PowerBI Desktop Application
+Upload dataset csv file (`customer_support_tickets.csv`) and PowerBI file (`report.pbix`) to PowerBI Desktop Application
